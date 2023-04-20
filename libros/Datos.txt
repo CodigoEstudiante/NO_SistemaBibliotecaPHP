@@ -1,0 +1,10 @@
+1.Code Complete - Steve McConnell - Programación - Oreilly(agregado)
+2.Creación y Diseño Web - Matthew MacDonald - Diseño - Oreilly(agregado)
+3.CSS  The Definitive Guide - Eric Meyer - Diseño -Oreilly(agregado)
+4.El mundo es ancho y ajeno - Ciro Alegria - Novela indigenista - Ediciones de la Torre(agregado)
+5.El pez en el agua - Mario Vargas Llosa - Novela - Alfaguara
+6.JAVA How to program - Harvey Deitel - Programación- Deitel
+7.La casa Verde - mario vargas llosa - Ficcion - Alfaguara
+8.La tia julia y el escribidor - Mario vargas llosa - ficcion - Alfaguara
+9.Los ojos de mi princesa - Carlos Cuauhtémoc Sánchez - literatura juvenil - Diamante
+10.Tradiciones Peruanas - Ricardo Palma - Narrativo - Inkgua
